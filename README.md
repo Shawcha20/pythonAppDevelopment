@@ -1,4 +1,8 @@
-# 1st project was calculator
+I used spyder for my editing software and python library 13.3
+
+
+
+# 1st project  calculator
 
 
 
