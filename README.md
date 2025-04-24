@@ -20,7 +20,7 @@ It UI is simple it can be resizeable according to window I use Python library tk
 
 
 
-#2nd Project was unit Converter
+# 2nd Project was unit Converter
 
 
 
@@ -39,7 +39,7 @@ I use tkinter library and it's label and dropdown property combobox for showing 
 
 
 
-#3rd project Snake Game
+# 3rd project Snake Game
 
 
 
