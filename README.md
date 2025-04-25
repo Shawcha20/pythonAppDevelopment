@@ -62,6 +62,16 @@ I use tkinter library and it's label and dropdown property combobox for showing 
 in this game I use pygame as a python library and random for creating random food across the screen and time for updating the display
 
 
+# 4th Project photo editor. It can blur , grayscale and sharpen a image using python library called pillow 
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/1cff5c42-d30e-401b-843c-ba3ac2582c98)
 
 
 
